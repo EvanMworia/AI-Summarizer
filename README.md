@@ -80,5 +80,10 @@ MIT License.
 
 ---
 
-This README provides a detailed reference for hosting on GitHub and future improvements. 🚀
+##To Future me: 
+- I hope this helps
+- I hope this comes in clutch someday.
+
+##regards,
+Past ambitious you who pulled an allnighter 
 
