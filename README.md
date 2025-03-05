@@ -53,11 +53,17 @@ POST /summarize
 
 **Request (Multipart Form-Data):**
 - `file` (DOCX or PDF)
-Use Postman or cURL to send a file upload request.
 
-Endpoint: POST http://localhost:5000/api/summarize
-Form Data: Key = file, Value = your_document.pdf or your_document.docx
+# Testing the API
+- Use Postman or cURL to send a file upload request.
+
+Endpoint: -- POST http://localhost:5000/api/summarize
+Form Data:
+Key = file, 
+Value = your_document.pdf or your_document.docx
+
 If successful, you’ll get back:
+
 **Response (JSON):**
 ```json
 {
